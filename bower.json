@@ -1,0 +1,22 @@
+{
+  "name": "todopolymer",
+  "authors": [
+    "Bogdan Tsap <bogdan.tsap@thinktank.net>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.4.0",
+    "iron-elements": "^1.0.10",
+    "paper-elements": "^1.0.7"
+  }
+}
